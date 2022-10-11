@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on with advanced programmers to help me achieve my aim.
 - 📫 How to reach me mfrimpong@gmail.com
-- Any help will be ok, IU am here to learn so any advice will do.
+- Any help will be ok, I am here to learn, any advice will do.
 -
 <!---
 mfrimponm/mfrimponm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
